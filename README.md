@@ -8,7 +8,7 @@ This is a record of an actual successful installation on 2026-10-24, not a unive
 `context=u:r:magisk:s0`, while SELinux was **Enforcing**. Netflix playback was subsequently tested working.
 Other streaming apps and Play Integrity were not comprehensively tested.
 
-The companion project, [BT-On-PhilipsTV](https://github.com/mrk1987/BT-On-PhilipsTV), explains how I
+The companion project, [BT-On-Philips-TV](https://github.com/mrk1987/BT-On-Philips-TV), explains how I
 enabled Bluetooth audio, fixed pairing consent, and built a blue-button audio panel after rooting.
 
 ## Scope and precautions
@@ -210,7 +210,7 @@ An OTA replacing boot can also remove root; revalidate rather than blindly reusi
 - [Full sanitized session worklog](docs/ROOT-WORKLOG.md): both attempts, checksums, approvals and results.
 - [Original pre-root assessment](docs/ROOT-ASSESSMENT.md): historical analysis; later results supersede it.
 - [Sources and licensing](THIRD_PARTY.md): original exploit and reference procedure, pinned commits.
-- [Bluetooth companion](https://github.com/mrk1987/BT-On-PhilipsTV): profile enablement, pairing fix and panel.
+- [Bluetooth companion](https://github.com/mrk1987/BT-On-Philips-TV): profile enablement, pairing fix and panel.
 
 No firmware, boot image, vendor library, ADB key, device-specific encryption key or private backup is
 distributed. Root does not establish that a newer Android ROM or arbitrary firmware will work.

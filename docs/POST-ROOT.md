@@ -41,5 +41,5 @@ is published. This compilation was unrelated to establishing root or Bluetooth p
 ## Subsequent Bluetooth work
 
 The A2DP overlay, missing pairing consent, volume handling and blue-button panel are documented in
-[BT-On-PhilipsTV](https://github.com/mrk1987/BT-On-PhilipsTV). The panel requires no root to run once
+[BT-On-Philips-TV](https://github.com/mrk1987/BT-On-Philips-TV). The panel requires no root to run once
 the firmware profile has been enabled; root was needed for the component change on this build.
